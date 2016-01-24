@@ -1,4 +1,4 @@
-# lol-inibin-parser
+# lol-bin-parser
 A parser for .bin files from League of Legends.
 
 ## Download
