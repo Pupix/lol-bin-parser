@@ -10,8 +10,8 @@ lol-bin-parser is installable via:
 ## Usage example
 
 ```js
-var InibinParser = require('lol-bin-parser'),
-    bin = new InibinParser();
+var BinParser = require('lol-bin-parser'),
+    bin = new BinParser();
     
     // Read the package.json file
     bin.read('Fizz.bin', function (err, data) {
