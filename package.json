@@ -2,7 +2,7 @@
     "name": "lol-bin-parser",
     "license": "MIT",
     "description": "A parser for .bin files from League of Legends.",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "homepage": "https://github.com/Pupix/lol-bin-parser",
     "author": {
         "name": "Robert Manolea",
